@@ -18,6 +18,7 @@
 * ![](./Screenshots/icones/redimensionar.svg) Redimensionar imagem.
 * ![](./Screenshots/icones/salvar.svg) Salvar imagem.
 * ![](./Screenshots/icones/sobre.svg) Informações sobre o programa.
+
 ![](./Screenshots/atalhos.gif)
 
 ## 🛠️ Tecnologias e Ferramentas usadas na construção do projeto:
