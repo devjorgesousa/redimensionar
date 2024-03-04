@@ -57,6 +57,7 @@
 
 ##### Execute a aplicação:
 * python3 main.py
+
 ![](./Screenshots/rodandoprojeto.gif)
 
 ## 📦 Implantação
