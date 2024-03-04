@@ -70,7 +70,7 @@
 ###### O executável gerado pelo PyInstaller foi compactado em ZIP:
 [Clique aqui para baixar o arquivo ZIP no Driver Google](https://drive.google.com/file/d/180crcJylCdTzQL3ATgVIz4qY8k8m-t42/view?usp=sharing).
 
-![](./Screenshots/zip.webm)
+![](./Screenshots/zip.gif)
 
 ##### 🔧 Instalador 
 ###### Utilizei um software chamado [Inno Setup](https://jrsoftware.org/isdl.php#stable), que serve para criação de instaladores para arquivos executáveis:
